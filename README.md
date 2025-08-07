@@ -17,5 +17,5 @@ A curated collection of **clean, practical C++ examples** designed to help you m
 
 ### Installation
 ```bash
-git clone https://github.com/your-username/cpp-playground.git
+git clone https://github.com/Shahrokh1383/cpp-playground.git
 cd cpp-playground
